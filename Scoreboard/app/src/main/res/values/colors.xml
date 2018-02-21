@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#007ac1</color><!--white 45 (large) white 64 (small)-->
+    <color name="colorPrimary">#03a9f4</color><!--white 67 black 63 (large) white 95 (small)-->
+    <color name="colorAccent">#67daff</color><!--black 49 (large) black 66 (small)-->
+    <color name="LightBluePrimary">#03a9f4</color><!--white 67 black 63 (large) white 95 (small)-->
+    <color name="LightBlueLight">#67daff</color><!--black 49 (large) black 66 (small)-->
+    <color name="LightBlueDark">#007ac1</color><!--white 45 (large) white 64 (small)-->
+    <color name="DeepOrangeSecondary">#ff7043</color><!--black 49 (large) black 66 (small)-->
+    <color name="DeepOrangeLight">#ffa270</color><!--black 46 (large) black 60 (small)-->
+    <color name="DeepOrangeDark">#c63f17</color><!--white 66 black 66 (large) white 92 (small)-->
+    <color name="White">#FFFFFF</color><!--white 66 black 66 (large) white 92 (small)-->
+    <color name="Black">#000000</color><!--white 66 black 66 (large) white 92 (small)-->
+    <color name="red">#ff0e06</color>
+    <color name="yellow">#f7ff06</color>
+    <color name="gray">#898787</color>
+    <color name="graytrans">#80d2d2d2</color>
+    <color name="blue">#0090ff</color>
+</resources>
