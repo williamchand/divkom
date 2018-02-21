@@ -1,3 +1,5 @@
 # divkom
 there is three project inside
-### [news](https://github.com/williamchand/divkom/tree/master/Newspedia%20grabbing%20news)
+### [NewsApp](https://github.com/williamchand/divkom/tree/master/Newspedia%20grabbing%20news)
+### [OrderApp](https://github.com/williamchand/divkom/tree/master/divisi%20komputer%20order%20taker)
+### [ScoreBoard Baseball](https://github.com/williamchand/divkom/tree/master/Scoreboard)
